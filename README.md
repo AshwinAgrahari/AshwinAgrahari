@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+###Certifications
+![Course Completion Certificate](./Certificate.jpeg)
 <!--
 **AshwinAgrahari/AshwinAgrahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
